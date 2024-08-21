@@ -11,3 +11,7 @@
 ### 자바
 ### <ul>JDK 8이상</ul>
 ### <ul>Oracle JDBC 드라이버</ul>
+## velog
+https://velog.io/@ellcoding/Insert-Oracle-DB
+## 결과
+![image](https://github.com/user-attachments/assets/72f68900-3362-4517-ac54-ed657ae5db2f)
