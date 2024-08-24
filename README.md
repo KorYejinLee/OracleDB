@@ -16,7 +16,7 @@ https://velog.io/@ellcoding/Insert-Oracle-DB
 ## 결과
 | 종류 | 결과 |
 | ------ | ----- |
-| 웹페이지 | ![gmarket](https://github.com/user-attachments/assets/a27b7dbd-b800-4a85-b246-db516fcefcf6) |
+| 화면 | ![gmarket](https://github.com/user-attachments/assets/a27b7dbd-b800-4a85-b246-db516fcefcf6) |
 | DB | ![image](https://github.com/user-attachments/assets/22307cfd-bc81-4ead-bedd-9ff7e3a2c7fe) |
 | EXCEL | ![excel](https://github.com/user-attachments/assets/61b9e1d7-c8ad-4c62-8bc6-4655ccfcb42d) |
 
